@@ -1,0 +1,13 @@
+First terminal:
+step 1:
+cd project\frontend #hit enter
+step 2:
+npm run dev #hit enter
+
+Second terminal:
+step 1:
+cd project\backend #hit enter
+step 2:
+PCMenv\Scripts\activate.bat #hit enter
+step 3:
+python manage.py runserver 8000 #hit enter
